@@ -1,4 +1,4 @@
-# googlepage（chrome插件）
+# Google結果分頁，顯示下一頁（chrome插件）
 google search show next page（Google搜索顯示下一頁，恢復翻頁模式）  
 安裝很簡單。  
 先下載代碼，右上角code——》download zip。  
